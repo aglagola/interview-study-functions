@@ -1,2 +1,1 @@
-# MySite
-Personal Brand Website
+Ramp up ypur Coding with this Study Guide.
